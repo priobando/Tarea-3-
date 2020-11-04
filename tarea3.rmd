@@ -1,0 +1,43 @@
+---
+title: "PF-0953 Programación geoespacial en R
+Tarea 03: Leaflet"
+autor: "Priscilla Obando Rodríguez"
+date: "2020-11-04"
+output:
+  html_document:
+    theme: readable    
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: false  
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Descripción general
+
+En esta tarea, desarrollará un mapa para la Web mediante la biblioteca Leaflet. El resultado final será un documento en la sintaxis R Markdown publicado en GitHub Pages.
+
+## Fecha de entrega y entregables
+
+La fecha límite de entrega es el miércoles 4 de noviembre de 2020 antes de las 5:00 p.m. NO SE ACEPTARÁN ENTREGAS DESPUÉS DE ESA FECHA Y HORA. Debe enviarle al profesor por correo electrónico la dirección del sitio en GitHub Pages resultante.
+
+El proyecto puede realizarse en grupos de un máximo de tres estudiantes. Por favor copie el mensaje de correo a las direcciones de todos los integrantes del grupo e incluya los nombres de los integrantes en los metadatos del documento. Debe enviarse solamente un mensaje por grupo.
+
+## Desarrollo
+
+Desarrolle un mapa en Leaflet con las siguientes características (el valor porcentual de cada aspecto a evaluar se muestra entre paréntesis):
+
+(5%) Tres capas base (puede elegirlas).
+
+```{r}
+# Importación de datos de casos recuperados, fallecidos, activos y positivos de Covid-19 en los países de Centroamérica
+cr_covid19_recuperados <- read.csv(file='')
+
+# Despliegue de los datos
+ca_covid19
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
