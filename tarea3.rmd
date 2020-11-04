@@ -24,7 +24,7 @@ En esta tarea, desarrollará un mapa para la Web mediante la biblioteca Leaflet.
 
 La fecha límite de entrega es el miércoles 4 de noviembre de 2020 antes de las 5:00 p.m. NO SE ACEPTARÁN ENTREGAS DESPUÉS DE ESA FECHA Y HORA. Debe enviarle al profesor por correo electrónico la dirección del sitio en GitHub Pages resultante.
 
-El proyecto puede realizarse en grupos de un máximo de tres estudiantes. Por favor copie el mensaje de correo a las direcciones de todos los integrantes del grupo e incluya los nombres de los integrantes en los metadatos del documento. Debe enviarse solamente un mensaje por grupo.
+El proyecto     puede realizarse en grupos de un máximo de tres estudiantes. Por favor copie el mensaje de correo a las direcciones de todos los integrantes del grupo e incluya los nombres de los integrantes en los metadatos del documento. Debe enviarse solamente un mensaje por grupo.
 
 ## Desarrollo
 
